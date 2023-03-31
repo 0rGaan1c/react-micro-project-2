@@ -1,0 +1,17 @@
+.left-container {
+  color: white;
+  width: 50%;
+  margin-top: 140px;
+}
+
+.left-container > h1 {
+  letter-spacing: 1.2px;
+  font-weight: 900;
+  font-size: 51px;
+  margin: 0 0 20px 0;
+}
+
+.left-container > p {
+  font-size: 15px;
+  margin: 8px;
+}

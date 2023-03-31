@@ -1,0 +1,22 @@
+.skills {
+  display: flex;
+  gap: 5px;
+  margin-top: 4px;
+  margin-bottom: 8px;
+}
+
+.skills .skill {
+  font-size: 12px;
+  background: #dcdcdc;
+  border-radius: 8px;
+  width: 58px;
+  padding: 5px;
+  color: #777777;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.skill .cross {
+  cursor: pointer;
+}
